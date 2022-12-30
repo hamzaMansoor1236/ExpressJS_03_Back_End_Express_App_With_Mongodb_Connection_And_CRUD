@@ -1,0 +1,24 @@
+{
+  "name": "expressjs_03_back_end_express_app_with_mongodb_connection_and_crud",
+  "version": "1.0.0",
+  "description": "basic crud operations",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaMansoor1236/ExpressJS_03_Back_End_Express_App_With_Mongodb_Connection_And_CRUD.git"
+  },
+  "author": "Hamza Mansoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaMansoor1236/ExpressJS_03_Back_End_Express_App_With_Mongodb_Connection_And_CRUD/issues"
+  },
+  "homepage": "https://github.com/hamzaMansoor1236/ExpressJS_03_Back_End_Express_App_With_Mongodb_Connection_And_CRUD#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
